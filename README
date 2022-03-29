@@ -1,4 +1,4 @@
-echo "# sekersohbet.com" >> README.md 
+echo "# https://www.sekersohbet.com/
 git init 
 git add README.md 
 git commit -m "sohbet sitesi
