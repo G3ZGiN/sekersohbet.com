@@ -1,0 +1,7 @@
+echo "# sekersohbet.com" >> README.md 
+git init 
+git add README.md 
+git commit -m "sohbet sitesi
+git branch -M ana 
+git uzaktan add Origin https://github.com/G3ZGiN/sekersohbet.com. git
+ git push -u ana kaynak
